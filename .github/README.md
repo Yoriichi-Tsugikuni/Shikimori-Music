@@ -2,9 +2,9 @@
 
 <p align="center"><img src="https://telegra.ph//file/126cf7073539787a3a4c6.jpg" alt="ICON" width="80%"/></p>
 
-# SiestaXMusic
+# Shikimori-Music
 
-[SiestaXMusic](https://github.com/TechShreyash/SiestaXMusic) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[Shikimori-Music](https://github.com/Yoriichi-Tsugikuni/Shikimori-Music) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
