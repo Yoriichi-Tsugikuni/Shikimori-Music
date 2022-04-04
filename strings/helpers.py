@@ -64,9 +64,9 @@ ForcePlay Commands = playforce , vplayforce , cplayforce
 
 HELP_3 = """✅<u>**Bot Commands:**</u>
 
-/stats - Get Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat etc etc.
+/zstats - Get Top 10 Tracks Global Stats, Top 10 Users of bot, Top 10 Chats on bot, Top 10 Played in a chat etc etc.
 
-/sudolist - Check Sudo Users of Yukki Music Bot
+/zsudolist - Check Sudo Users of Yukki Music Bot
 
 /lyrics [Music Name] - Searches Lyrics for the particular Music on web.
 
@@ -79,9 +79,9 @@ HELP_3 = """✅<u>**Bot Commands:**</u>
 /queue or /cqueue- Check Queue List of Music."""
 
 HELP_4 = """✅<u>**Extra  Commands:**</u>
-/start - Start the Music Bot.
-/help  - Get Commands Helper Menu with detailed explanations of commands.
-/ping- Ping the Bot and check Ram, Cpu etc stats of Bot.
+/zstart - Start the Music Bot.
+/zhelp  - Get Commands Helper Menu with detailed explanations of commands.
+/zping- Ping the Bot and check Ram, Cpu etc stats of Bot.
 
 ✅<u>**Group Settings:**</u>
 /settings - Get a complete group's settings with inline buttons
@@ -111,8 +111,8 @@ HELP_4 = """✅<u>**Extra  Commands:**</u>
 3️⃣ **Play Type** [Everyone or Admins] - If admins, only admins present in group can play music on voice chat."""
 
 HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
-/addsudo [Username or Reply to a user]
-/delsudo [Username or Reply to a user]
+/zaddsudo [Username or Reply to a user]
+/zdelsudo [Username or Reply to a user]
 
 🛃**<u>HEROKU:</u>**
 /usage - Dyno Usage.
@@ -133,7 +133,7 @@ HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 📈**<u>STATS COMMANDS:</u>**
 /activevoice - Check active voice chats on bot.
 /activevideo - Check active video calls on bot.
-/stats - Check Bots Stats
+/zstats - Check Bots Stats
 
 ⚠️**<u>BLACKLIST CHAT FUNCTION:</u>**
 /blacklistchat [CHAT_ID] - Blacklist any chat from using Music Bot
@@ -146,9 +146,9 @@ HELP_5 = """🔰**<u>ADD & REMOVE SUDO USERS :</u>**
 /blockedusers - Check blocked Users Lists
 
 👤**<u>GBAN FUNCTION:</u>**
-/gban [Username or Reply to a user] - Gban a user from bot's served chat and stop him from using your bot.
-/ungban [Username or Reply to a user] - Remove a user from Bot's gbanned List and allow him for using your bot
-/gbannedusers - Check Gbanned Users Lists
+/zgban [Username or Reply to a user] - Gban a user from bot's served chat and stop him from using your bot.
+/zungban [Username or Reply to a user] - Remove a user from Bot's gbanned List and allow him for using your bot
+/zgbannedusers - Check Gbanned Users Lists
 
 🎥**<u>VIDEOCALLS FUNCTION:</u>**
 /set_video_limit [Number of Chats] - Set a maximum Number of Chats allowed for Video Calls at a time. Default to 3 chats.
